@@ -41,6 +41,7 @@ To access the Admin Dashboard, log in with the following credentials (or update 
 
 ## ⚠️ Disclaimer
 This is an academic/portfolio project created strictly for educational and demonstrative purposes. 
-"Lumiere Beauty" is a fictional brand created for this project. 
+"Lumiere Beauty" is a fictional brand created for this project.
+No real financial transactions occur on this platform.
 All product images, brands, and trademarks used within this repository belong to their respective original owners.
 No commercial use is intended, and no copyright infringement is intended.
